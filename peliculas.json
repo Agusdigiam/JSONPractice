@@ -1,0 +1,17 @@
+{
+    "peliculas":{
+        "01":{
+            "nombre": "Avengers: End Game",
+            "diaLanzamiento": "22-05-2015",
+            "duracion": "dos horas"
+
+            
+        },
+        "02": {
+            "nombre": "El gato con botas",
+            "diaLanzamiento": "23-06-1997",
+            "duracion": "tres horas"
+
+        }
+    }
+}
